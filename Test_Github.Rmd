@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 This is a test for GitHub
+
+This is a change to the R markdown file
